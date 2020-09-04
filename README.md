@@ -13,7 +13,7 @@ My goal has been to make a interface that is suitable for touch devices, works w
 can take part in a work-flow where much development is done on traditional computers. If Working Copy turns out to allow more 
 people to use Git, this is a positive side-effect, but the primarily focus is on letting existing Git users work on iOS.
 
-I have made things a little more convenient for [GitHub](https://github.com), [BitBucket](https://bitbucket.org), [GitLab](https://gitlab.com) and [Gogs](https://gogs.io) users but you can use any modern Git hosting service or your own Git server.
+I have made things a little more convenient for [[GitHub]()](https://github.com), [BitBucket](https://bitbucket.org), [GitLab](https://gitlab.com) and [Gogs](https://gogs.io) users but you can use any modern Git hosting service or your own Git server.
 
 You will be able to access files inside Working Copy from other apps if they support the document picker or the iOS 11 document browser,
 but [many other](https://workingcopyapp.com/manual.html#extending-ios) integration points are supported as well. 
