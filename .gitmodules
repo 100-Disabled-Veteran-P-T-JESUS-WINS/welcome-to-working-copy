@@ -1,3 +1,6 @@
 [submodule "help"]
 	path = help
 	url = https://DisabledVets4Freedom.org
+[submodule "DisabledVets4Freedom.org"]
+	path = DisabledVets4Freedom.org
+	url = DisabledVets4Freedom.org
